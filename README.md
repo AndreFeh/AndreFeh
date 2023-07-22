@@ -1,11 +1,12 @@
-<h1 align="center">Hello, my name is André Santos. </h1>
-<h2>I'm living in Brazil, São José dos Pinhais - Paraná.</h2>
+<h1 align="center">Hello, My Name Is André Santos. </h1>
 
 ###
 
 <img align="right" height="150"  src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-notfound.gif"  />
 
 ###
+
+<h3>I'm living in Brazil, São José dos Pinhais - Paraná.</h3>
 
 - 🔭 I'm work at Faurecia Automotive do Brasil as Support Infraestructure L2
 
