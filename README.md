@@ -1,4 +1,5 @@
-<h2 align="center">Hello, my name is André Santos and i'm living in Brazil, São José dos Pinhais - Paraná.</h2>
+<h1 align="center">Hello, my name is André Santos. </h1>
+<h2>I'm living in Brazil, São José dos Pinhais - Paraná.</h2>
 
 ###
 
