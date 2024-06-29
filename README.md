@@ -1,4 +1,5 @@
-  <h1 align="center">Hey Dev! You around at here! I'm Santos André and it's my profile! You're Welcome </h1>
+  <h1 align="center">Hey Dev! You Around At Here! I'm Santos André It's My Profile! </h1>
+  <h1 align="center">You're Welcome</h1>
   
   ###
   
@@ -47,6 +48,7 @@
   <img src="https://your-js-image-url" alt="JavaScript" height="50">
 </div>
 <p> Sorry, I still have to implements these images </p>
+
 ###
   
   <br clear="both">
