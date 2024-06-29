@@ -7,15 +7,13 @@
   
   ###
   
-  <h3>I'm living in Brazil, São José dos Pinhais - Paraná.</h3>
+  - I'm living in Brazil, São José dos Pinhais - Paraná.
   
   - 🔭 I'm work at Faurecia Automotive of Brazil as Support Infraestructure L2.
   
   - 🌱 I’m currently learning Java, HTML, CSS, JS and starting in .NET/C#.
   
   - 📫 How to reach me **contato.andre.santos@outlook.com** or WhatsApp +55041 995368320.
-  
-  
   
   ###
   
