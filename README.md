@@ -42,7 +42,7 @@
     <img src="https://www.softzone.es/app/uploads-softzone.es/2016/02/Logo-de-Java-portada.jpg" alt="Java" height="50" style="margin-right:10px;">
   <img src="https://th.bing.com/th/id/OIP.iG4Qt0D9g9yLNxWZmUN8NgHaD4?rs=1&pid=ImgDetMain" alt="Spring Boot" height="50" style="margin-right:10px;">
   <img src="https://i.pinimg.com/236x/6c/52/12/6c52120e231ec7a7404c0b68eb09652a.jpg" alt="C#" height="50" style="margin-right:10px;">
-  <img src="https://th.bing.com/th/id/R.f462ea39ee7a688a9c46faa2d230907a?rik=gdVJOgOfym%2fv6Q&riu=http%3a%2f%2fwww.goldenapplewebdesign.com%2fwp-content%2fuploads%2f2011%2f07%2fcss3.jpg&ehk=XJePj%2bDwQf5elnrVTK24c%2fQvyJoDOV7RiybsjKJ7rso%3d&risl=&pid=ImgRaw&r=0" alt="CSS" height="50" style="margin-right:10px;">
+  <img src="https://www.webentwicklung-krickel.de/pic/7_logo_css.jpg" alt="CSS" height="50" style="margin-right:10px;">
   <img src="https://th.bing.com/th/id/OIP.MQOaU6tX8AtO_zP7e8-i6AHaHa?rs=1&pid=ImgDetMain" alt="HTML" height="50" style="margin-right:10px;">
   <img src="https://www.cuatromedios.com/media/SyNV7M2ySn/logo/java-white.png" alt="JavaScript" height="50">
 </div>
