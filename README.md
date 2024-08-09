@@ -39,12 +39,12 @@
   ## 🚀 Languages and Tools:
 
 <div align="center">
-  <img src="https://logospng.org/download/java/logo-java-1536.png" alt="Java" height="50" style="margin-right:10px;">
-  <img src="https://th.bing.com/th/id/OIP.iG4Qt0D9g9yLNxWZmUN8NgHaD4?rs=1&pid=ImgDetMain" alt="Spring Boot" height="50" style="margin-right:10px;">
-  <img src="https://p7.hiclipart.com/preview/340/226/414/c-computer-programming-software-development-programmer-marklogic-coder-thumbnail.jpg" alt="C#" height="50" style="margin-right:10px;">
-  <img src="https://1.bp.blogspot.com/-m4TTXg7Oof4/XlJFOC9iQmI/AAAAAAAAACc/gjl4x37MVFIH7th8Y1xmelomiX4rYRwewCLcBGAsYHQ/s1600/css3.png" alt="CSS" height="50" style="margin-right:10px;">
-  <img src="https://th.bing.com/th/id/OIP.MQOaU6tX8AtO_zP7e8-i6AHaHa?rs=1&pid=ImgDetMain" alt="HTML" height="50" style="margin-right:10px;">
-  <img src="https://th.bing.com/th/id/OIP.9uWqqjg4HRlE5rrICURxZgHaFE?rs=1&pid=ImgDetMain" alt="JavaScript" height="50">
+  <img src="https://codingmstr.com/img/category/11627411349.jpeg" alt="Java" height="50" style="margin-right:10px;">
+  <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/spring-boot-1_5zDxm9B.jpg" alt="Spring Boot" height="50" style="margin-right:10px;">
+  <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/spring-boot-1_5zDxm9B.jpg" alt="C#" height="50" style="margin-right:10px;">
+  <img src="https://th.bing.com/th/id/R.f462ea39ee7a688a9c46faa2d230907a?rik=gdVJOgOfym%2fv6Q&riu=http%3a%2f%2fwww.goldenapplewebdesign.com%2fwp-content%2fuploads%2f2011%2f07%2fcss3.jpg&ehk=XJePj%2bDwQf5elnrVTK24c%2fQvyJoDOV7RiybsjKJ7rso%3d&risl=&pid=ImgRaw&r=0" alt="CSS" height="50" style="margin-right:10px;">
+  <img src="https://th.bing.com/th/id/OIP.3J7E6m_vASXmBc0rTUcL_gHaHa?w=500&h=500&rs=1&pid=ImgDetMain" alt="HTML" height="50" style="margin-right:10px;">
+  <img src="https://homemadegarbage.com/wp/wp-content/uploads/2017/10/js-logo.png" alt="JavaScript" height="50">
 </div>
 
 <p> Sorry, I still have to implements these images </p>
