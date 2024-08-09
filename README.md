@@ -39,14 +39,14 @@
   ## 🚀 Languages and Tools:
 
 <div align="center">
-  <img src="https://your-java-image-url" alt="Java" height="50" style="margin-right:10px;">
-  <img src="https://your-csharp-image-url" alt="C#" height="50" style="margin-right:10px;">
-  <img src="https://your-css-image-url" alt="CSS" height="50" style="margin-right:10px;">
-  <img src="https://your-html-image-url" alt="HTML" height="50" style="margin-right:10px;">
-  <img src="https://your-js-image-url" alt="JavaScript" height="50">
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
+  <img src="https://logospng.org/download/java/logo-java-1536.png" alt="Java" height="50" style="margin-right:10px;">
+  <img src="https://th.bing.com/th/id/OIP.iG4Qt0D9g9yLNxWZmUN8NgHaD4?rs=1&pid=ImgDetMain" alt="Spring Boot" height="50" style="margin-right:10px;">
+  <img src="https://p7.hiclipart.com/preview/340/226/414/c-computer-programming-software-development-programmer-marklogic-coder-thumbnail.jpg" alt="C#" height="50" style="margin-right:10px;">
+  <img src="https://1.bp.blogspot.com/-m4TTXg7Oof4/XlJFOC9iQmI/AAAAAAAAACc/gjl4x37MVFIH7th8Y1xmelomiX4rYRwewCLcBGAsYHQ/s1600/css3.png" alt="CSS" height="50" style="margin-right:10px;">
+  <img src="https://th.bing.com/th/id/OIP.MQOaU6tX8AtO_zP7e8-i6AHaHa?rs=1&pid=ImgDetMain" alt="HTML" height="50" style="margin-right:10px;">
+  <img src="https://th.bing.com/th/id/OIP.9uWqqjg4HRlE5rrICURxZgHaFE?rs=1&pid=ImgDetMain" alt="JavaScript" height="50">
 </div>
+
 <p> Sorry, I still have to implements these images </p>
 
 ###
