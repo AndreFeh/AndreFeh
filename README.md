@@ -11,7 +11,7 @@
   
   - 💼 I'm work at Faurecia Automotive of Brazil as Support Infraestructure L2.
   
-  - 👨🏻‍💻 I’m currently learning Java, HTML, CSS, JS and starting in .NET/C#.
+  - 👨🏻‍💻 I’m currently learning Java, Spring Boot API, HTML, CSS, JS and starting in Angular.
   
   - 📫 How to reach me **contato.andre.santos@outlook.com** or WhatsApp +55041 995368320.
   
@@ -19,7 +19,7 @@
   
   <br clear="both">
   
-  ## 📊 My Github Stats
+  ##  📊 My Github Stats
   
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&username=andrefeh" height="150" alt="stats graph"  />
@@ -36,7 +36,7 @@
   
   <br clear="both">
   
-  ## 🚀 Languages and Tools:
+  ##  🚀 Languages and Tools:
 
 <div align="center">
     <img src="https://www.softzone.es/app/uploads-softzone.es/2016/02/Logo-de-Java-portada.jpg" alt="Java" height="50" style="margin-right:10px;">
