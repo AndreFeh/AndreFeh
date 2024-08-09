@@ -42,7 +42,7 @@
     <img src="https://www.softzone.es/app/uploads-softzone.es/2016/02/Logo-de-Java-portada.jpg" alt="Java" height="50" style="margin-right:10px;">
   <img src="https://th.bing.com/th/id/OIP.iG4Qt0D9g9yLNxWZmUN8NgHaD4?rs=1&pid=ImgDetMain" alt="Spring Boot" height="50" style="margin-right:10px;">
   <img src="https://i.pinimg.com/236x/6c/52/12/6c52120e231ec7a7404c0b68eb09652a.jpg" alt="C#" height="50" style="margin-right:10px;">
-  <img src="https://www.webentwicklung-krickel.de/pic/7_logo_css.jpg" alt="CSS" height="50" style="margin-right:10px;">
+  <img src="https://th.bing.com/th/id/OIP.dRHKPi7ZSwem7C53q0RwDgHaHa?w=512&h=512&rs=1&pid=ImgDetMain" alt="CSS" height="50" style="margin-right:10px;">
   <img src="https://th.bing.com/th/id/OIP.MQOaU6tX8AtO_zP7e8-i6AHaHa?rs=1&pid=ImgDetMain" alt="HTML" height="50" style="margin-right:10px;">
   <img src="https://www.cuatromedios.com/media/SyNV7M2ySn/logo/java-white.png" alt="JavaScript" height="50">
 </div>
