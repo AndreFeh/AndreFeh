@@ -39,15 +39,13 @@
   ##  🚀 Languages and Tools:
 
 <div align="center">
-    <img src="https://www.softzone.es/app/uploads-softzone.es/2016/02/Logo-de-Java-portada.jpg" alt="Java" height="50" style="margin-right:10px;">
-  <img src="https://th.bing.com/th/id/OIP.iG4Qt0D9g9yLNxWZmUN8NgHaD4?rs=1&pid=ImgDetMain" alt="Spring Boot" height="50" style="margin-right:10px;">
-  <img src="https://i.pinimg.com/236x/6c/52/12/6c52120e231ec7a7404c0b68eb09652a.jpg" alt="C#" height="50" style="margin-right:10px;">
-  <img src="https://res.cloudinary.com/andresbaravalle/image/upload/h_300,w_300/v1542975067/preview-css3logo_wixj3y.png" alt="CSS" height="50" style="margin-right:10px;">
-  <img src="https://th.bing.com/th/id/OIP.MQOaU6tX8AtO_zP7e8-i6AHaHa?rs=1&pid=ImgDetMain" alt="HTML" height="50" style="margin-right:10px;">
-  <img src="https://www.cuatromedios.com/media/SyNV7M2ySn/logo/java-white.png" alt="JavaScript" height="50">
+    <img src="img/JAVA.png" alt="Java" height="80px">
+  <img src="img/SPRINGBOOT.png" alt="Spring Boot" height="80px" >
+  <img src="img/ANGULAR.png" alt="Angular JS" height="80px">
+  <img src="img/HTML.png" alt="HTML" height="80px">
+  <img src="img/CSS.png" alt="CSS" height="80px">
+  <img src="img/JS.png" alt="JavaScript" height="80px">
 </div>
-
-<p> Sorry, I still have to implements these images </p>
 
 ###
   
@@ -57,11 +55,11 @@
   ## 📲 Connect with me 
   
   <div align="center">
-    <a href="https://www.instagram.com/andrefehsan/" target="_blank">
+    <a href="https://www.instagram.com/andrefeh.22/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
     <a href="mailto:contato.andre.santos@outlook.com">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-    <a href="https://www.linkedin.com/in/andr%C3%A9-felipe-santos-007367157/" target="_blank">
+    <a href="https://www.linkedin.com/in/andre-felipe-santos07" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
     </a>
     <a href="https://api.whatsapp.com/send?phone=5541995368320&text=Ol%C3%A1%2C%20Vi%20o%20seu%20GitHub..." target="_blank">
