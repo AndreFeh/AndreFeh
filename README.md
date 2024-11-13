@@ -1,5 +1,5 @@
-  <h1 align="center">Hey Dev! You Around At Here! I'm Santos André It's My Profile! </h1>
-  <h1 align="center">You're Welcome</h1>
+  <h1 align="center">Hey Dev! You're Here! </h1>
+  <h3 align="center"> I'm Santos André It's My Profile! Welcome </h3>
   
   ###
   
@@ -13,7 +13,7 @@
   
   - 👨🏻‍💻 I’m currently learning Java, Spring Boot API, HTML, CSS, JS and starting in Angular.
   
-  - 📫 How to reach me **contato.andre.santos@outlook.com** or WhatsApp +55041 995368320.
+  - 📫 How to reach me **contato.andre.santos@outlook.com** or WhatsApp +55 041 995368320.
   
   ###
   
@@ -39,12 +39,12 @@
   ##  🚀 Languages and Tools:
 
 <div align="center">
-    <img src="img/JAVA.png" alt="Java" height="80px">
-  <img src="img/SPRINGBOOT.png" alt="Spring Boot" height="80px" >
-  <img src="img/ANGULAR.png" alt="Angular JS" height="80px">
-  <img src="img/HTML.png" alt="HTML" height="80px">
-  <img src="img/CSS.png" alt="CSS" height="80px">
-  <img src="img/JS.png" alt="JavaScript" height="80px">
+    <img src="img/JAVA.png" alt="Java" height="60px">
+  <img src="img/SPRINGBOOT.png" alt="Spring Boot" height="60px" >
+  <img src="img/ANGULAR.png" alt="Angular JS" height="60px">
+  <img src="img/HTML.png" alt="HTML" height="60px">
+  <img src="img/CSS.png" alt="CSS" height="60px">
+  <img src="img/JS.png" alt="JavaScript" height="60px">
 </div>
 
 ###
