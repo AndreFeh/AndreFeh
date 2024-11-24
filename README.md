@@ -1,5 +1,5 @@
-  <h1 align="center">Hey Dev! You're Here! </h1>
-  <h3 align="center"> I'm Santos André It's My Profile! Welcome </h3>
+  <h1 align="center">Hey Dev! You're in My Profile! </h1>
+  <h3 align="center"> I'm Santos André! Be Welcome </h3>
   
   ###
   
@@ -7,11 +7,11 @@
   
   ###
   
-  - 📍 I'm living in Brazil, São José dos Pinhais - Paraná.
+  - 📍 I'm living in Brazil, Paraná.
   
-  - 💼 I'm work at Faurecia Automotive of Brazil as Support Infraestructure L2.
+  - 💼 Currenctly I don't work, I'm search a job with Development or Support IT.
   
-  - 👨🏻‍💻 I’m currently learning Java, Spring Boot API, HTML, CSS, JS and starting in Angular.
+  - 👨🏻‍💻 I'm dev Java with springboot & Angular to Front
   
   - 📫 How to reach me **contato.andre.santos@outlook.com** or WhatsApp +55 041 995368320.
   
