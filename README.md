@@ -1,22 +1,16 @@
   <h1 align="center">Hey Dev! You're in My Profile! </h1>
   <h3 align="center"> I'm Santos André! Be Welcome </h3>
-  
-  ###
-  
+<hr>
   <img align="right" height="150"  src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-notfound.gif"  />
-  
-  ###
-  
-  - 📍 I'm living in Brazil, Paraná.
+ 
+  - 📍 I'm living in Paraná, Brazil. 
   
   - 💼 Currenctly I don't work, I'm search a job with Development or Support IT.
   
-  - 👨🏻‍💻 I'm dev Java with springboot & Angular to Front
+  - 💻 I'm dev Java with springboot & Angular for Front-end.
   
-  - 📫 How to reach me **contato.andre.santos@outlook.com** or WhatsApp +55 041 995368320.
-  
-  ###
-  
+  - 📫 You can to reach with me by **contato.andre.santos@outlook.com** or WhatsApp +55 041 995368320.
+<hr>  
   <br clear="both">
   
   ##  📊 My Github Stats
@@ -57,7 +51,7 @@
   <div align="center">
     <a href="https://www.instagram.com/andrefeh.22/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-    <a href="mailto:contato.andre.santos@outlook.com">
+    <a href="mailto:contato.andre.santos@outlook.com" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
     <a href="https://www.linkedin.com/in/andre-felipe-santos07" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -70,7 +64,7 @@
   ###
   
   ## ❤ Views and Followers
-  <a href="https://github.com/AndreFeh/github-profile-views-counter" >
+  <a href="https://github.com/AndreFeh/github-profile-views-counter" target="_blank">
       <img src="https://komarev.com/ghpvc/?username=andrefeh" >
   </a>
   <a  href="https://github.com/andrefeh?tab=followers"><img src="https://img.shields.io/github/followers/andrefeh?label=Followers&style=social" alt="GitHub Badge"></a>
