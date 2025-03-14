@@ -1,5 +1,5 @@
-  <h1 align="center">Hey Dev! You're in My Profile! </h1>
-  <h3 align="center"> I'm Santos André! Be Welcome </h3>
+  <h1 align="center">Hey Dev! Welcome in My Profile! </h1>
+  <h3 align="center"> I'm Santos André! A Systems Developer </h3>
 <hr>
   <img align="right" height="150"  src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-notfound.gif"  />
  
